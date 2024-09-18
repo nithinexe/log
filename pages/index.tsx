@@ -36,7 +36,7 @@ export default function Home({ logContent }: { logContent: string }) {
         <p className={styles.description}>
           This page is a public log that i use to free style blog. These are my
           personal writings so it will be very raw and contain a lot of grammatical
-          errors. I write these notes to myself so i remember stuff mroe efficiently.
+          errors. I write these notes to myself so i remember stuff more efficiently.
         </p>
 
         <h2 className={styles.sectionTitle}>Logs:</h2>
