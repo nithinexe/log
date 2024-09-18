@@ -52,6 +52,11 @@
   text-decoration: underline;
 }
 
+.logs {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
 /* .logs {
   width: 100%;
   margin-top: 2rem;
