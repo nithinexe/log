@@ -5,6 +5,7 @@ The question is, how do I package this in a way that fleets actually care about?
 
  But then there’s smart home automation. This could be huge. Imagine a system that not only gives you weather and air quality inside and out but also detects stuff like smoke, gas leaks, fire, whatever. The real selling point here is safety—people love the idea of protecting their homes with tech that’s basically running in the background 24/7. Hook that up to smart alarms, automatic window ventilation, or even a direct call to emergency services.
 
+Gonna have to work on a prototype for this. Maybe start with something simple, like detecting smoke and triggering a smart lock on windows, or an automatic fan. Build it out from there to cover gas leakage or CO2 levels. I’m liking this direction—it feels tangible, something people will pay for.
 
 
 <!-- Add more log entries here -->
