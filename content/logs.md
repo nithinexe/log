@@ -1,5 +1,7 @@
 ### 20th sept
+This site’s got a minimalist and a clean look, but let’s take it up a notch. Thinking multiple pages for different topics. One page just for Kiko logs—all the updates, breakthroughs, demo prep, and ideas. It’s the spot where anyone can see the evolution of the project.
 
+Then there’s the daily rant logs—where I throw down whatever’s on my mind. Unfiltered, real-time thoughts, experiments, side projects, everything. It’ll be like an organized chaos, but exactly how I want it.
 
 
 
