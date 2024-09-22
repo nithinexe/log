@@ -1,3 +1,8 @@
+I should start clicking more pictures or maybe buy a go pro!
+
+Idk why i'm unable to add images onto the site, if i use md syntax for image i get a very large picture and i want to adjust the size. The html tags are not rendering.
+
+
 ### 20th sept
 This site’s got a minimalist and a clean look, but let’s take it up a notch. Thinking multiple pages for different topics. One page just for Kiko logs—all the updates, breakthroughs, demo prep, and ideas. It’s the spot where anyone can see the evolution of the project.
 
