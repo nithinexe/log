@@ -25,7 +25,9 @@ export default function Home({ logContent }: { logContent: string }) {
         </div>
         <h1 className={styles.title}>Nithin</h1>
         <p className={styles.contact}>
-          <a href='https://x.com/nithinexe'>x.com/nithinexe</a>
+          <a href='https://x.com/nithinexe'>x.com/nithinexe</a> |{' '}
+          <a href='#'>notes</a> |{' '}
+          <a href='#'>blog</a>
           <br />
         </p>
 
