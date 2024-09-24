@@ -1,4 +1,4 @@
-Damn I've been lagging behind with the Kiko API work, ned to finish it asap and i need to figure out a way to add images onto this site. 
+Damn I've been lagging behind with the Kiko API work, need to finish it asap and i need to figure out a way to add images onto this site. 
 The markdown image functionality is working but i cant adjust the size of an image with md image tag.
 
 I should start clicking more pictures or maybe buy a go pro!
