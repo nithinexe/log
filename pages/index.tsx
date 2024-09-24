@@ -26,8 +26,11 @@ export default function Home({ logContent }: { logContent: string }) {
         <h1 className={styles.title}>Nithin</h1>
         <p className={styles.contact}>
           <a href='https://x.com/nithinexe'>x.com/nithinexe</a> |{' '}
+          <a href='mailto:nitt.kiko@proton.me'>email</a> |{' '}
           <a href='#'>notes</a> |{' '}
-          <a href='#'>blog</a>
+          <a href='https://nitt.bearblog.dev'>blog</a> |{' '}
+          <a href='https://substack.com/@nitts'>substack</a> |{' '}
+          <a href='https://medium.com/@0xnitt'>medium</a>
           <br />
         </p>
 
