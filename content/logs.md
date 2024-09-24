@@ -1,3 +1,6 @@
+Damn I've been lagging behind with the Kiko API work, ned to finish it asap and i need to figure out a way to add images onto this site. 
+The markdown image functionality is working but i cant adjust the size of an image with md image tag.
+
 I should start clicking more pictures or maybe buy a go pro!
 
 Idk why i'm unable to add images onto the site, if i use md syntax for image i get a very large picture and i want to adjust the size. The html tags are not rendering.
