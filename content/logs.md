@@ -1,5 +1,10 @@
-Damn I've been lagging behind with the Kiko API work, need to finish it asap and i need to figure out a way to add images onto this site. 
-The markdown image functionality is working but i cant adjust the size of an image with md image tag.
+
+
+Only got the user registration endpoint done so far, and the clock’s ticking. I need to knock out authentication by today evening if I want any shot at moving onto API key generation next. Plus, I’m still unsure about the demo—the concept’s floating, but nothing locked in yet. The data visualization (dashboard and all) is still a blank canvas.
+
+Deadline’s creeping up, and I’ve got side track POCs I need to juggle too. Feels like I’m playing catch-up with everything. Gotta grind this out.
+
+I need to figure out a way to add images onto this site. The markdown image functionality is working but i can't adjust the size of an image with md image tag.
 
 I should start clicking more pictures or maybe buy a go pro!
 
