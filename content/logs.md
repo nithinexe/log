@@ -1,3 +1,7 @@
+#### <i>i'm back after trying to fix some crap which i didn't break</i>
+It’s been a while since I’ve written. Got caught up trying to fix my heart—turns out, that was a waste of time. Lost focus for a second and chased a woman when I should’ve been chasing knowledge. Thoughts are still running through my head, but there’s no time to sit with them. We’ve got high-level engineering problems to solve, and that’s where the energy needs to go.
+
+---
 
 There’s a ton of side tracks I could tap into to make some quick cash—I just need to crank out a few POCs. But honestly, I’ve been slacking off lately. Gotta snap out of it and get back on track. Time to lock in and grind.
 
@@ -17,6 +21,7 @@ Idk why i'm unable to add images onto the site, if i use md syntax for image i g
 This site’s got a minimalist and a clean look, but let’s take it up a notch. Thinking multiple pages for different topics. One page just for Kiko logs—all the updates, breakthroughs, demo prep, and ideas. It’s the spot where anyone can see the evolution of the project.
 
 Then there’s the daily rant logs—where I throw down whatever’s on my mind. Unfiltered, real-time thoughts, experiments, side projects, everything. It’ll be like an organized chaos, but exactly how I want it.
+
 
 
 
